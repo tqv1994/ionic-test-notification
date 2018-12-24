@@ -1,0 +1,8 @@
+{
+  "name": "Theo dõi vận đơn",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "aa464bdc"
+}

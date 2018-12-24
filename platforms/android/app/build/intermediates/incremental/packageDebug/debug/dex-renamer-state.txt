@@ -1,0 +1,4 @@
+#Sat Dec 22 09:19:56 ICT 2018
+base.0=H\:\\project\\ionic\\ionic-test-notification\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=H\:\\project\\ionic\\ionic-test-notification\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
